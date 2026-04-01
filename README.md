@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Iftekhar&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Visionary&descAlignY=60&descColor=38bdf8&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👋+Hey!+I'm+Iftekhar+Ibn+Asifat;🚀+Building+ZPRIA+—+Bangladesh's+Biggest+Tech+Platform;💡+React+%7C+TypeScript+%7C+AI+%7C+Full+Stack;🌍+Dreaming+Big%2C+Building+Bigger)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👋+Hey!+I'm+Iftekhar+Ibna+Sifat;🚀+Building+ZPRIA+—+Bangladesh's+Biggest+Tech+Platform;💡+React+%7C+TypeScript+%7C+AI+%7C+Full+Stack;🌍+Dreaming+Big%2C+Building+Bigger)](https://git.io/typing-svg)
 
 <br/>
 
