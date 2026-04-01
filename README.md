@@ -21,7 +21,7 @@
 
 ```typescript
 const iftekhar = {
-  name: "Iftekhar Ibn Asifat",
+  name: "Iftekhar Ibna Sifat",
   location: "Bangladesh 🇧🇩",
   role: "Full-Stack Developer & Digital Entrepreneur",
   currentProject: "ZPRIA — All-in-One Digital Ecosystem",
