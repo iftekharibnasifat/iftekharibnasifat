@@ -152,7 +152,7 @@ const iftekhar = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-iftekharibnasifat-100000?style=for-the-badge&logo=github)](https://github.com/iftekharibnasifat)
-[![IFTEK](https://img.shields.io/badge/My_Platform-ZPRIA-a78bfa?style=for-the-badge&logo=vercel)](https://MRSIFAT.vercel.app)
+[![IFTEK](https://img.shields.io/badge/My_Platform-IFTEK-a78bfa?style=for-the-badge&logo=vercel)](https://MRSIFAT.vercel.app)
 [![Bangladesh](https://img.shields.io/badge/From-Bangladesh%20🇧🇩-006a4e?style=for-the-badge)](https://en.wikipedia.org/wiki/Bangladesh)
 
 </div>
