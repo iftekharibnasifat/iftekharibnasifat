@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Iftekhar Ibna Sifat, Founder of ZPRIA">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#374151" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#9ca3af"/>
+      <stop offset="1" stop-color="#374151" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="300" rx="14" fill="url(#bg)"/>
+  <rect x="14" y="14" width="1252" height="272" rx="8" fill="none" stroke="#1f2937" stroke-width="1"/>
+
+  <!-- corner marks -->
+  <g stroke="#6b7280" stroke-width="1.5" fill="none">
+    <path d="M40 74 V40 H74"/>
+    <path d="M1206 40 H1240 V74"/>
+    <path d="M40 226 V260 H74"/>
+    <path d="M1206 260 H1240 V226"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">
+    <text x="640" y="104" fill="#6b7280" font-size="13" letter-spacing="9" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">ZPRIA</text>
+    <text x="640" y="162" fill="#e5e7eb" font-size="50" letter-spacing="7">IFTEKHAR IBNA SIFAT
+      <animate attributeName="opacity" from="0" to="1" dur="1.4s" fill="freeze"/>
+    </text>
+  </g>
+
+  <rect x="340" y="188" width="600" height="1.5" fill="url(#rule)">
+    <animate attributeName="opacity" from="0" to="1" dur="2s" fill="freeze"/>
+  </rect>
+  <rect x="634" y="183" width="12" height="12" transform="rotate(45 640 189)" fill="#0d1117" stroke="#9ca3af" stroke-width="1.5"/>
+
+  <text x="640" y="228" text-anchor="middle" fill="#9ca3af" font-size="14" letter-spacing="5" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">FOUNDER  ·  PRODUCT BUILDER  ·  BANGLADESH
+    <animate attributeName="opacity" from="0" to="1" dur="2.4s" fill="freeze"/>
+  </text>
+</svg>
