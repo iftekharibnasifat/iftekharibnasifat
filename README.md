@@ -3,7 +3,7 @@
 <img src="./assets/banner.svg" width="100%" alt="Iftekhar Ibna Sifat, Founder of ZPRIA"/>
 
 ![Followers](https://img.shields.io/github/followers/iftekharibnasifat?style=flat-square&color=1f2937&labelColor=0d1117)
-![Projects](https://img.shields.io/badge/projects-30%2B-1f2937?style=flat-square&labelColor=0d1117)
+![Projects](https://img.shields.io/badge/projects-50%2B-1f2937?style=flat-square&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/Bangladesh-1f2937?style=flat-square&labelColor=0d1117)
 
 [About](#about) · [Projects](#projects) · [Stack](#tools-i-work-with) · [Activity](#activity) · [Connect](#connect)
