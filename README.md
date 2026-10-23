@@ -37,41 +37,160 @@ I decide what gets built, how it's structured and how it should look. AI writes 
 
 ## Projects
 
-| | Project | About |
-|:-:|:--|:--|
-| <img src="./icons/voicetypez.svg" width="40" height="40" alt="VoiceTypeZ"/> | **[VoiceTypeZ](https://voicetypez.vercel.app)**<br/><sub>voicetypez.vercel.app</sub> | A multilingual speech-to-text web app. Speak in your language and get clean text back, with support for 23 languages and SEO built in for each one. |
-| <img src="./icons/bd-services.svg" width="40" height="40" alt="BD Services"/> | **[BD Services](https://bdservices.vercel.app)**<br/><sub>bdservices.vercel.app</sub> | A services platform built for the Bangladesh market, connecting people with the services they look for. |
-| <img src="./icons/aisolvez.svg" width="40" height="40" alt="AiSolveZ"/> | **[AiSolveZ](https://aisolvez.vercel.app)**<br/><sub>aisolvez.vercel.app</sub> | An AI-powered assistant for solving problems and answering questions quickly. |
+[<img src="./icons/voicetypez.svg" width="48" height="48" alt="VoiceTypeZ"/>](https://voicetypez.vercel.app)
+
+**01 &nbsp; [VoiceTypeZ ↗](https://voicetypez.vercel.app)**
+> A multilingual speech-to-text web app. Speak in your language and get clean text back, with support for 23 languages and SEO built in for each one.  
+> <sub>voicetypez.vercel.app</sub>
+
+[<img src="./icons/bd-services.svg" width="48" height="48" alt="BD Services"/>](https://bdservices.vercel.app)
+
+**02 &nbsp; [BD Services ↗](https://bdservices.vercel.app)**
+> A services platform built for the Bangladesh market, connecting people with the services they look for.  
+> <sub>bdservices.vercel.app</sub>
+
+[<img src="./icons/aisolvez.svg" width="48" height="48" alt="AiSolveZ"/>](https://aisolvez.vercel.app)
+
+**03 &nbsp; [AiSolveZ ↗](https://aisolvez.vercel.app)**
+> An AI-powered assistant for solving problems and answering questions quickly.  
+> <sub>aisolvez.vercel.app</sub>
 
 <details>
 <summary><b>View all projects &nbsp;·&nbsp; 22 more</b></summary>
 
 <br/>
 
-| | Project | About |
-|:-:|:--|:--|
-| <img src="./icons/ai-documentify.svg" width="40" height="40" alt="AI Documentify"/> | **[AI Documentify](https://aiechoflow.vercel.app)**<br/><sub>aiechoflow.vercel.app</sub> | An AI tool that helps create and organize documents from simple input. |
-| <img src="./icons/safetube.svg" width="40" height="40" alt="SafeTube"/> | **[SafeTube](https://safetub.vercel.app)**<br/><sub>safetub.vercel.app</sub> | A cleaner, safer way to watch video content. |
-| <img src="./icons/safetub.svg" width="40" height="40" alt="SafeTub"/> | **[SafeTub](https://safetub-ecru.vercel.app)**<br/><sub>safetub-ecru.vercel.app</sub> | A second deployment and variation of SafeTube. |
-| <img src="./icons/az-free-book.svg" width="40" height="40" alt="AZ Free Book"/> | **[AZ Free Book](https://zpai.vercel.app)**<br/><sub>zpai.vercel.app</sub> | A free online library for reading and discovering books. |
-| <img src="./icons/apzapi.svg" width="40" height="40" alt="ApZAPI"/> | **[ApZAPI](https://myrrh.vercel.app)**<br/><sub>myrrh.vercel.app</sub> | An API-focused project for testing and connecting services. |
-| <img src="./icons/softmax.svg" width="40" height="40" alt="Softmax"/> | **[Softmax](https://softmax-chi.vercel.app)**<br/><sub>softmax-chi.vercel.app</sub> | A modern company website with a clean, fast design. |
-| <img src="./icons/aurex-leather.svg" width="40" height="40" alt="AUREX Leather"/> | **[AUREX Leather](https://aurexl.vercel.app)**<br/><sub>aurexl.vercel.app</sub> | A brand website for a premium leather products business. |
-| <img src="./icons/ai-meal-board.svg" width="40" height="40" alt="AI Meal Board"/> | **[AI Meal Board](https://dubd.vercel.app)**<br/><sub>dubd.vercel.app</sub> | An AI meal planner that helps organize meals and weekly food plans. |
-| <img src="./icons/strikehell.svg" width="40" height="40" alt="StrikeHell"/> | **[StrikeHell](https://strikehell.vercel.app)**<br/><sub>strikehell.vercel.app</sub> | An interactive web game project. |
-| <img src="./icons/portfolio.svg" width="40" height="40" alt="Portfolio"/> | **[Portfolio](https://iftek.vercel.app)**<br/><sub>iftek.vercel.app</sub> | My personal portfolio website. |
-| <img src="./icons/bolt-diy.svg" width="40" height="40" alt="bolt.diy"/> | **[bolt.diy](https://boltdiy-beige-six.vercel.app)**<br/><sub>boltdiy-beige-six.vercel.app</sub> | An AI-powered full-stack app builder. |
-| <img src="./icons/zfreeai.svg" width="40" height="40" alt="ZFREEAI"/> | **[ZFREEAI](https://zfreeai.vercel.app)**<br/><sub>zfreeai.vercel.app</sub> | A free AI chat platform connecting multiple AI providers through one interface. |
-| <img src="./icons/chatbot.svg" width="40" height="40" alt="Chatbot"/> | **[Chatbot](https://urvon.vercel.app)**<br/><sub>urvon.vercel.app</sub> | A modern AI chatbot application built on Next.js. |
-| <img src="./icons/tersa.svg" width="40" height="40" alt="Tersa AI Workflow Canvas"/> | **[Tersa AI Workflow Canvas](https://daxvorn.vercel.app)**<br/><sub>daxvorn.vercel.app</sub> | A visual canvas for designing and running AI workflows. |
-| <img src="./icons/admin-dashboard.svg" width="40" height="40" alt="Admin Dashboard"/> | **[Admin Dashboard](https://dralion.vercel.app)**<br/><sub>dralion.vercel.app</sub> | A Next.js and shadcn/ui admin dashboard for managing data and analytics. |
-| <img src="./icons/crystalize.svg" width="40" height="40" alt="E-commerce Crystalize Remix"/> | **[E-commerce Crystalize Remix](https://abrin.vercel.app)**<br/><sub>abrin.vercel.app</sub> | An e-commerce storefront built on Remix. |
-| <img src="./icons/plasmic.svg" width="40" height="40" alt="Plasmic Split Content Starter Kit"/> | **[Plasmic Split Content Starter Kit](https://lehr.vercel.app)**<br/><sub>lehr.vercel.app</sub> | A content site starter with visual editing through Plasmic. |
-| <img src="./icons/screwfast.svg" width="40" height="40" alt="ScrewFast"/> | **[ScrewFast](https://lorvael.vercel.app)**<br/><sub>lorvael.vercel.app</sub> | A fast, modern business website built on Astro. |
-| <img src="./icons/odyssey.svg" width="40" height="40" alt="Odyssey"/> | **[Odyssey](https://odyssey-coral-phi.vercel.app)**<br/><sub>odyssey-coral-phi.vercel.app</sub> | A clean Astro-based website with a travel-style design. |
-| <img src="./icons/onelink.svg" width="40" height="40" alt="OneLink"/> | **[OneLink](https://arles.vercel.app)**<br/><sub>arles.vercel.app</sub> | A link-in-bio page that gathers all links in one place. |
-| <img src="./icons/tldraw.svg" width="40" height="40" alt="tldraw Whiteboard"/> | **tldraw Whiteboard**<br/><sub>in progress</sub> | A collaborative whiteboard built on tldraw. |
-| <img src="./icons/auth0.svg" width="40" height="40" alt="Auth0 SaaS Starter"/> | **Auth0 SaaS Starter**<br/><sub>in progress</sub> | A SaaS starter with Auth0 authentication. |
+[<img src="./icons/ai-documentify.svg" width="48" height="48" alt="AI Documentify"/>](https://aiechoflow.vercel.app)
+
+**04 &nbsp; [AI Documentify ↗](https://aiechoflow.vercel.app)**
+> An AI tool that helps create and organize documents from simple input.  
+> <sub>aiechoflow.vercel.app</sub>
+
+[<img src="./icons/safetube.svg" width="48" height="48" alt="SafeTube"/>](https://safetub.vercel.app)
+
+**05 &nbsp; [SafeTube ↗](https://safetub.vercel.app)**
+> A cleaner, safer way to watch video content.  
+> <sub>safetub.vercel.app</sub>
+
+[<img src="./icons/safetub.svg" width="48" height="48" alt="SafeTub"/>](https://safetub-ecru.vercel.app)
+
+**06 &nbsp; [SafeTub ↗](https://safetub-ecru.vercel.app)**
+> A second deployment and variation of SafeTube.  
+> <sub>safetub-ecru.vercel.app</sub>
+
+[<img src="./icons/az-free-book.svg" width="48" height="48" alt="AZ Free Book"/>](https://zpai.vercel.app)
+
+**07 &nbsp; [AZ Free Book ↗](https://zpai.vercel.app)**
+> A free online library for reading and discovering books.  
+> <sub>zpai.vercel.app</sub>
+
+[<img src="./icons/apzapi.svg" width="48" height="48" alt="ApZAPI"/>](https://myrrh.vercel.app)
+
+**08 &nbsp; [ApZAPI ↗](https://myrrh.vercel.app)**
+> An API-focused project for testing and connecting services.  
+> <sub>myrrh.vercel.app</sub>
+
+[<img src="./icons/softmax.svg" width="48" height="48" alt="Softmax"/>](https://softmax-chi.vercel.app)
+
+**09 &nbsp; [Softmax ↗](https://softmax-chi.vercel.app)**
+> A modern company website with a clean, fast design.  
+> <sub>softmax-chi.vercel.app</sub>
+
+[<img src="./icons/aurex-leather.svg" width="48" height="48" alt="AUREX Leather"/>](https://aurexl.vercel.app)
+
+**10 &nbsp; [AUREX Leather ↗](https://aurexl.vercel.app)**
+> A brand website for a premium leather products business.  
+> <sub>aurexl.vercel.app</sub>
+
+[<img src="./icons/ai-meal-board.svg" width="48" height="48" alt="AI Meal Board"/>](https://dubd.vercel.app)
+
+**11 &nbsp; [AI Meal Board ↗](https://dubd.vercel.app)**
+> An AI meal planner that helps organize meals and weekly food plans.  
+> <sub>dubd.vercel.app</sub>
+
+[<img src="./icons/strikehell.svg" width="48" height="48" alt="StrikeHell"/>](https://strikehell.vercel.app)
+
+**12 &nbsp; [StrikeHell ↗](https://strikehell.vercel.app)**
+> An interactive web game project.  
+> <sub>strikehell.vercel.app</sub>
+
+[<img src="./icons/portfolio.svg" width="48" height="48" alt="Portfolio"/>](https://iftek.vercel.app)
+
+**13 &nbsp; [Portfolio ↗](https://iftek.vercel.app)**
+> My personal portfolio website.  
+> <sub>iftek.vercel.app</sub>
+
+[<img src="./icons/bolt-diy.svg" width="48" height="48" alt="bolt.diy"/>](https://boltdiy-beige-six.vercel.app)
+
+**14 &nbsp; [bolt.diy ↗](https://boltdiy-beige-six.vercel.app)**
+> An AI-powered full-stack app builder.  
+> <sub>boltdiy-beige-six.vercel.app</sub>
+
+[<img src="./icons/zfreeai.svg" width="48" height="48" alt="ZFREEAI"/>](https://zfreeai.vercel.app)
+
+**15 &nbsp; [ZFREEAI ↗](https://zfreeai.vercel.app)**
+> A free AI chat platform connecting multiple AI providers through one interface.  
+> <sub>zfreeai.vercel.app</sub>
+
+[<img src="./icons/chatbot.svg" width="48" height="48" alt="Chatbot"/>](https://urvon.vercel.app)
+
+**16 &nbsp; [Chatbot ↗](https://urvon.vercel.app)**
+> A modern AI chatbot application built on Next.js.  
+> <sub>urvon.vercel.app</sub>
+
+[<img src="./icons/tersa.svg" width="48" height="48" alt="Tersa AI Workflow Canvas"/>](https://daxvorn.vercel.app)
+
+**17 &nbsp; [Tersa AI Workflow Canvas ↗](https://daxvorn.vercel.app)**
+> A visual canvas for designing and running AI workflows.  
+> <sub>daxvorn.vercel.app</sub>
+
+[<img src="./icons/admin-dashboard.svg" width="48" height="48" alt="Admin Dashboard"/>](https://dralion.vercel.app)
+
+**18 &nbsp; [Admin Dashboard ↗](https://dralion.vercel.app)**
+> A Next.js and shadcn/ui admin dashboard for managing data and analytics.  
+> <sub>dralion.vercel.app</sub>
+
+[<img src="./icons/crystalize.svg" width="48" height="48" alt="E-commerce Crystalize Remix"/>](https://abrin.vercel.app)
+
+**19 &nbsp; [E-commerce Crystalize Remix ↗](https://abrin.vercel.app)**
+> An e-commerce storefront built on Remix.  
+> <sub>abrin.vercel.app</sub>
+
+[<img src="./icons/plasmic.svg" width="48" height="48" alt="Plasmic Split Content Starter Kit"/>](https://lehr.vercel.app)
+
+**20 &nbsp; [Plasmic Split Content Starter Kit ↗](https://lehr.vercel.app)**
+> A content site starter with visual editing through Plasmic.  
+> <sub>lehr.vercel.app</sub>
+
+[<img src="./icons/screwfast.svg" width="48" height="48" alt="ScrewFast"/>](https://lorvael.vercel.app)
+
+**21 &nbsp; [ScrewFast ↗](https://lorvael.vercel.app)**
+> A fast, modern business website built on Astro.  
+> <sub>lorvael.vercel.app</sub>
+
+[<img src="./icons/odyssey.svg" width="48" height="48" alt="Odyssey"/>](https://odyssey-coral-phi.vercel.app)
+
+**22 &nbsp; [Odyssey ↗](https://odyssey-coral-phi.vercel.app)**
+> A clean Astro-based website with a travel-style design.  
+> <sub>odyssey-coral-phi.vercel.app</sub>
+
+[<img src="./icons/onelink.svg" width="48" height="48" alt="OneLink"/>](https://arles.vercel.app)
+
+**23 &nbsp; [OneLink ↗](https://arles.vercel.app)**
+> A link-in-bio page that gathers all links in one place.  
+> <sub>arles.vercel.app</sub>
+
+<img src="./icons/tldraw.svg" width="48" height="48" alt="tldraw Whiteboard"/>
+
+**24 &nbsp; tldraw Whiteboard**
+> A collaborative whiteboard built on tldraw.  
+> <sub>in progress</sub>
+
+<img src="./icons/auth0.svg" width="48" height="48" alt="Auth0 SaaS Starter"/>
+
+**25 &nbsp; Auth0 SaaS Starter**
+> A SaaS starter with Auth0 authentication.  
+> <sub>in progress</sub>
 
 </details>
 
@@ -79,24 +198,58 @@ I decide what gets built, how it's structured and how it should look. AI writes 
 
 ## ZPRIA Projects
 
-| | Project | About |
-|:-:|:--|:--|
-| <img src="./icons/zpria.svg" width="40" height="40" alt="ZPRIA"/> | **[ZPRIA](https://zpria.vercel.app)**<br/><sub>zpria.vercel.app</sub> | The main ZPRIA website, with a 3D hero section and scroll-based animations. |
-| <img src="./icons/azqin.svg" width="40" height="40" alt="AZQIN"/> | **[AZQIN](https://azqin.vercel.app)**<br/><sub>azqin.vercel.app</sub> | A full e-commerce store with products, cart, checkout and admin management. |
-| <img src="./icons/zpria-ai.svg" width="40" height="40" alt="ZPRIA AI"/> | **[ZPRIA AI](https://zyva.vercel.app)**<br/><sub>zyva.vercel.app</sub> | The AI chat system for ZPRIA. |
+[<img src="./icons/zpria.svg" width="48" height="48" alt="ZPRIA"/>](https://zpria.vercel.app)
+
+**01 &nbsp; [ZPRIA ↗](https://zpria.vercel.app)**
+> The main ZPRIA website, with a 3D hero section and scroll-based animations.  
+> <sub>zpria.vercel.app</sub>
+
+[<img src="./icons/azqin.svg" width="48" height="48" alt="AZQIN"/>](https://azqin.vercel.app)
+
+**02 &nbsp; [AZQIN ↗](https://azqin.vercel.app)**
+> A full e-commerce store with products, cart, checkout and admin management.  
+> <sub>azqin.vercel.app</sub>
+
+[<img src="./icons/zpria-ai.svg" width="48" height="48" alt="ZPRIA AI"/>](https://zyva.vercel.app)
+
+**03 &nbsp; [ZPRIA AI ↗](https://zyva.vercel.app)**
+> The AI chat system for ZPRIA.  
+> <sub>zyva.vercel.app</sub>
 
 <details>
 <summary><b>View all ZPRIA projects &nbsp;·&nbsp; 5 more</b></summary>
 
 <br/>
 
-| | Project | About |
-|:-:|:--|:--|
-| <img src="./icons/zpria-main.svg" width="40" height="40" alt="ZPRIA Main"/> | **[ZPRIA Main](https://zpria22.vercel.app)**<br/><sub>zpria22.vercel.app</sub> | The main company platform bringing ZPRIA products together. |
-| <img src="./icons/zpria-accounts.svg" width="40" height="40" alt="ZPRIA Accounts"/> | **[ZPRIA Accounts](https://www.zpria.com)**<br/><sub>www.zpria.com</sub> | A central account system for signing in across ZPRIA products. |
-| <img src="./icons/zpria-auth.svg" width="40" height="40" alt="ZPRIA Auth"/> | **[ZPRIA Auth](https://fullzpria.vercel.app)**<br/><sub>fullzpria.vercel.app</sub> | The authentication system with email verification and OTP. |
-| <img src="./icons/zpria-auth-v2.svg" width="40" height="40" alt="ZPRIA Auth v2"/> | **[ZPRIA Auth v2](https://zpria-auth-lime.vercel.app)**<br/><sub>zpria-auth-lime.vercel.app</sub> | The next version of the ZPRIA authentication system. |
-| <img src="./icons/zpria-game.svg" width="40" height="40" alt="ZPRIA Game"/> | **[ZPRIA Game](https://zpriax.vercel.app)**<br/><sub>zpriax.vercel.app</sub> | The games section of ZPRIA. |
+[<img src="./icons/zpria-main.svg" width="48" height="48" alt="ZPRIA Main"/>](https://zpria22.vercel.app)
+
+**04 &nbsp; [ZPRIA Main ↗](https://zpria22.vercel.app)**
+> The main company platform bringing ZPRIA products together.  
+> <sub>zpria22.vercel.app</sub>
+
+[<img src="./icons/zpria-accounts.svg" width="48" height="48" alt="ZPRIA Accounts"/>](https://www.zpria.com)
+
+**05 &nbsp; [ZPRIA Accounts ↗](https://www.zpria.com)**
+> A central account system for signing in across ZPRIA products.  
+> <sub>www.zpria.com</sub>
+
+[<img src="./icons/zpria-auth.svg" width="48" height="48" alt="ZPRIA Auth"/>](https://fullzpria.vercel.app)
+
+**06 &nbsp; [ZPRIA Auth ↗](https://fullzpria.vercel.app)**
+> The authentication system with email verification and OTP.  
+> <sub>fullzpria.vercel.app</sub>
+
+[<img src="./icons/zpria-auth-v2.svg" width="48" height="48" alt="ZPRIA Auth v2"/>](https://zpria-auth-lime.vercel.app)
+
+**07 &nbsp; [ZPRIA Auth v2 ↗](https://zpria-auth-lime.vercel.app)**
+> The next version of the ZPRIA authentication system.  
+> <sub>zpria-auth-lime.vercel.app</sub>
+
+[<img src="./icons/zpria-game.svg" width="48" height="48" alt="ZPRIA Game"/>](https://zpriax.vercel.app)
+
+**08 &nbsp; [ZPRIA Game ↗](https://zpriax.vercel.app)**
+> The games section of ZPRIA.  
+> <sub>zpriax.vercel.app</sub>
 
 </details>
 
@@ -105,16 +258,114 @@ I decide what gets built, how it's structured and how it should look. AI writes 
 ## Private Projects
 
 ![Status](https://img.shields.io/badge/status-locked-374151?style=flat-square&labelColor=0d1117)
-&nbsp;<sub>20 projects in development. Names and details are hidden, and each project will be published after launch.</sub>
+&nbsp;<sub>In development. Names and details are hidden, and each project will be published after launch.</sub>
 
-| | Type | Count | Status |
-|:-:|:--|:-:|:--|
-| <img src="./icons/locked-website.svg" width="40" height="40" alt="Website"/> | **Website** | 6 | Locked until launch · <sub>coming soon</sub> |
-| <img src="./icons/locked-application.svg" width="40" height="40" alt="Application"/> | **Application** | 4 | Locked until launch · <sub>coming soon</sub> |
-| <img src="./icons/locked-extension.svg" width="40" height="40" alt="Browser Extension"/> | **Browser Extension** | 3 | Locked until launch · <sub>coming soon</sub> |
-| <img src="./icons/locked-windows.svg" width="40" height="40" alt="Windows App"/> | **Windows App** | 3 | Locked until launch · <sub>coming soon</sub> |
-| <img src="./icons/locked-files.svg" width="40" height="40" alt="File Management System"/> | **File Management System** | 2 | Locked until launch · <sub>coming soon</sub> |
-| <img src="./icons/locked-books.svg" width="40" height="40" alt="Books"/> | **Books** | 2 | Locked until launch · <sub>coming soon</sub> |
+<img src="./icons/locked-website.svg" width="48" height="48" alt="Website"/>
+
+**01 &nbsp; Website**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-website.svg" width="48" height="48" alt="Website"/>
+
+**02 &nbsp; Website**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-website.svg" width="48" height="48" alt="Website"/>
+
+**03 &nbsp; Website**
+> Locked until launch · <sub>coming soon</sub>
+
+<details>
+<summary><b>View all private projects &nbsp;·&nbsp; 17 more</b></summary>
+
+<br/>
+
+<img src="./icons/locked-website.svg" width="48" height="48" alt="Website"/>
+
+**04 &nbsp; Website**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-website.svg" width="48" height="48" alt="Website"/>
+
+**05 &nbsp; Website**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-website.svg" width="48" height="48" alt="Website"/>
+
+**06 &nbsp; Website**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-application.svg" width="48" height="48" alt="Application"/>
+
+**07 &nbsp; Application**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-application.svg" width="48" height="48" alt="Application"/>
+
+**08 &nbsp; Application**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-application.svg" width="48" height="48" alt="Application"/>
+
+**09 &nbsp; Application**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-application.svg" width="48" height="48" alt="Application"/>
+
+**10 &nbsp; Application**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-extension.svg" width="48" height="48" alt="Browser Extension"/>
+
+**11 &nbsp; Browser Extension**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-extension.svg" width="48" height="48" alt="Browser Extension"/>
+
+**12 &nbsp; Browser Extension**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-extension.svg" width="48" height="48" alt="Browser Extension"/>
+
+**13 &nbsp; Browser Extension**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-windows.svg" width="48" height="48" alt="Windows App"/>
+
+**14 &nbsp; Windows App**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-windows.svg" width="48" height="48" alt="Windows App"/>
+
+**15 &nbsp; Windows App**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-windows.svg" width="48" height="48" alt="Windows App"/>
+
+**16 &nbsp; Windows App**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-files.svg" width="48" height="48" alt="File Management System"/>
+
+**17 &nbsp; File Management System**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-files.svg" width="48" height="48" alt="File Management System"/>
+
+**18 &nbsp; File Management System**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-books.svg" width="48" height="48" alt="Books"/>
+
+**19 &nbsp; Books**
+> Locked until launch · <sub>coming soon</sub>
+
+<img src="./icons/locked-books.svg" width="48" height="48" alt="Books"/>
+
+**20 &nbsp; Books**
+> Locked until launch · <sub>coming soon</sub>
+
+</details>
 
 ---
 
