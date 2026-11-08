@@ -502,20 +502,16 @@ Live stats from my two GitHub accounts: **iftekharibnasifat** (left) and **zpria
 ### Metrics
 
 <img src="https://raw.githubusercontent.com/iftekharibnasifat/iftekharibnasifat/main/metrics/overview.svg" width="49%" alt="iftekharibnasifat overview"/>
-<img src="https://raw.githubusercontent.com/zpria/zpria/main/metrics/overview.svg" width="49%" alt="zpria overview"/>
 
 <img src="https://raw.githubusercontent.com/iftekharibnasifat/iftekharibnasifat/main/metrics/achievements.svg" width="49%" alt="iftekharibnasifat achievements"/>
-<img src="https://raw.githubusercontent.com/zpria/zpria/main/metrics/achievements.svg" width="49%" alt="zpria achievements"/>
 
 <img src="https://raw.githubusercontent.com/iftekharibnasifat/iftekharibnasifat/main/metrics/isocalendar.svg" width="100%" alt="iftekharibnasifat 3D contribution calendar"/>
 
 <img src="https://raw.githubusercontent.com/zpria/zpria/main/metrics/isocalendar.svg" width="100%" alt="zpria 3D contribution calendar"/>
 
 <img src="https://raw.githubusercontent.com/iftekharibnasifat/iftekharibnasifat/main/metrics/languages.svg" width="49%" alt="iftekharibnasifat languages"/>
-<img src="https://raw.githubusercontent.com/zpria/zpria/main/metrics/languages.svg" width="49%" alt="zpria languages"/>
 
 <img src="https://raw.githubusercontent.com/iftekharibnasifat/iftekharibnasifat/main/metrics/habits.svg" width="49%" alt="iftekharibnasifat habits"/>
-<img src="https://raw.githubusercontent.com/zpria/zpria/main/metrics/habits.svg" width="49%" alt="zpria habits"/>
 
 ### Coding Time (WakaTime, last 7 days)
 
